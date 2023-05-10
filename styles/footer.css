@@ -1,0 +1,12 @@
+.vivod
+{
+    display: block;
+    background-color: red;
+    font-size: 60px;
+    color: white;
+    margin-left: 620px;
+    margin-top: 40px;
+    width: 600px;
+    border-radius: 40px;
+    padding: 20px;
+}

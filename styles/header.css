@@ -1,0 +1,16 @@
+.title
+{
+    display: flex;
+    width: 1180px;
+    border-radius: 30px;
+    margin-left: 1%;
+    padding-right: 16%;
+    margin-top: 30px;
+
+    background-color: black;
+    color: white;
+    padding-left: 20%;
+    font-size: 80px;
+    text-align: center;
+}
+
